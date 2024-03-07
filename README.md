@@ -1,16 +1,18 @@
-### Hi there 👋
+### 👋 hi，你好啊！
 
-<!--
-**zeturn/zeturn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+这里是zeturn（Henry Zhao）的一个Github仓库（还有别的仓库）。
 
-Here are some ideas to get you started:
+### 📱 设备
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- iPhone 18 Pro Max Plus Ultra
+- 遥遥领先
+- 古早iPad
+- apple牌Dell inspiron
+- magic calculator (Ti-nSpire)
+- general calculator (Ti-nSpire)
+- ...
+
+### 📚 玩过
+（仅仅是玩过，不一定玩的溜）
+![](https://skillicons.dev/icons?perline=15&i=github,gitlab,git,twitter,stackoverflow,vercel,figma,vscode,vim,atom,js,ts,html,css,c,cpp,java,python,php,bootstrap,jquery,nodejs,react,vue,tailwind,nextjs,mongo,redis,mysql,fastapi,flask,laravel,md,regex,aws,azure,linux,bash,docker,kubernetes,ansible,django,grafana,prometheus,nginx,kali,ubuntu,npm,vite,tensorflow,alpinejs,anaconda,androidstudio,xd,ps,pycharm)
+
