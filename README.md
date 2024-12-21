@@ -27,4 +27,6 @@
 - apple牌Dell inspiron
 - magic calculator (Ti-nSpire)
 - general calculator (Ti-nSpire)
+- 价值20美刀的旧chrome book
+- 一堆华强北土特产
 - ...
