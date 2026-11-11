@@ -6,11 +6,9 @@ Some projects are already serving our own operations and important clients. For 
 
 ## Information systems and data
 
-- [HollowData](https://hollowdata.com/) — Alternative data from social posts, satellite imagery, sensors, and indicators, shaped into evidence-backed event reports.
-- [Information Pipeline](https://hollowdata.com/platform) — A distributed pipeline for collecting, analyzing, evaluating, and delivering information.
+- [Araneae](https://github.com/zeturn/AraneaeDev) (OS) — Distributed task scheduling and execution.
 - [CIS](https://hollowdata.com/products/cis) — Data-source research and crawler acquisition control plane.
 - [Orion](https://hollowdata.com/products/orion) — Coordinates pipeline tasks, review, and publication.
-- [AraneaeDev](https://github.com/zeturn/AraneaeDev) (OS) — Distributed task scheduling and execution.
 - [Vespe](https://hollowdata.com/products/vespe) — Analysis worker for structured information-pipeline jobs.
 - [Atlas](https://hollowdata.com/products/atlas) — Knowledge graphs and event relationships.
 - [HashSlip](https://hollowdata.com/products/hashslip) — Data identity, catalog, and storage routing.
@@ -35,7 +33,6 @@ Some projects are already serving our own operations and important clients. For 
 - [watercolor_models](https://github.com/zeturn/watercolor_models) (OS) — React and Vue starter templates for Watercolor UI.
 - [mergedtools](https://github.com/zeturn/mergedtools) (OS) — Web collection of 210+ practical developer tools.
 - [Ponfig](https://hollowdata.com/products) — Lightweight Python configuration utility.
-- [Project Controller](https://hollowdata.com/apps) — Project-level control component.
 
 ## Applications and product tools
 
@@ -45,10 +42,8 @@ Some projects are already serving our own operations and important clients. For 
 - [Recal](https://hollowdata.com/products/recal) — Calendar and task-planning workspace.
 - [Relock](https://hollowdata.com/products/relock) — World clock and time-zone workspace.
 - [Renote](https://hollowdata.com/products/renote) — Markdown notes and organization.
-- [Willow](https://hollowdata.com/apps) — Meme-management application.
 - [IssueTick](https://github.com/zeturn/IssueTick) (OS) — Ticket intake, assignment, discussion, and resolution tracking.
 - [Postcube](https://github.com/zeturn/Postcube) (OS) — Anonymous question box with BasaltPass sign-in.
 - [CaliforniaBeans](https://github.com/zeturn/CaliforniaBeans) (OS) — Small Docker test-container project.
-- [ReClock_old](https://github.com/zeturn/ReClock_old) (OS) — Weather clock with dark mode and screen-awake support.
 
 Interested in any of these projects? [Contact me at henry@hollowdata.com](mailto:henry@hollowdata.com).
