@@ -1,6 +1,6 @@
 # I'm Henry
 
-I'm a hands-on independent developer who learns by building practical software. I work across distributed systems, data pipelines, AI infrastructure, and user-facing applications.
+I'm an independent developer who learns by building practical software. I work across distributed systems, data pipelines, AI infrastructure, and user-facing applications.
 
 Backend Engineering · Distributed Systems · AI Infrastructure · Information Retrieval
 
