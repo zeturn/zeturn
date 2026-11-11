@@ -2,6 +2,12 @@
 
 I'm a hands-on independent developer who learns by building practical software. I work across distributed systems, data pipelines, AI infrastructure, and user-facing applications.
 
+Backend Engineering · Distributed Systems · AI Infrastructure · Information Retrieval
+
+### Technologies
+
+`Go` · `Python` · `Kubernetes` · `Docker`
+
 Some projects are already serving our own operations and important clients. For security reasons, selected repositories remain closed source; their links lead to the corresponding product pages.
 
 ## Information systems and data
